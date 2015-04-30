@@ -1,0 +1,127 @@
+2015-04-26 14:53:24,933 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 56550
+2015-04-26 14:53:24,962 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 56550
+2015-04-26 14:53:25,084 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 56550 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 14:55:16,884 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 56560
+2015-04-26 14:55:16,886 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 56560
+2015-04-26 14:55:16,954 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 56560 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 14:55:54,203 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 56565
+2015-04-26 14:55:54,206 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 56565
+2015-04-26 14:55:54,274 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 56565 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 15:54:08,472 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 57234
+2015-04-26 15:54:08,476 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 57234
+2015-04-26 15:54:08,547 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 57234 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 15:55:07,374 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 57242
+2015-04-26 15:55:07,377 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 57242
+2015-04-26 15:55:07,432 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 57242 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 15:57:30,677 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 57258
+2015-04-26 15:57:30,680 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 57258
+2015-04-26 15:57:30,757 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 57258 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 16:00:20,206 [Transaction Reaper] WARN  com.arjuna.ats.arjuna - ARJUNA012117: TransactionReaper::check timeout for TX 0:ffff817b0729:dfa9:553d5f49:3 in state  RUN
+2015-04-26 16:00:20,207 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012095: Abort of action id 0:ffff817b0729:dfa9:553d5f49:3 invoked while multiple threads active within it.
+2015-04-26 16:00:20,208 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012108: CheckedAction::check - atomic action 0:ffff817b0729:dfa9:553d5f49:3 aborting with 1 threads active!
+2015-04-26 16:00:20,208 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012121: TransactionReaper::doCancellations worker Thread[Transaction Reaper Worker 0,5,main] successfully canceled TX 0:ffff817b0729:dfa9:553d5f49:3
+2015-04-26 16:08:53,576 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 57362
+2015-04-26 16:08:53,580 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 57362
+2015-04-26 16:08:53,659 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 57362 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 16:09:57,548 [Transaction Reaper] WARN  com.arjuna.ats.arjuna - ARJUNA012117: TransactionReaper::check timeout for TX 0:ffff817b0729:e011:553d61f4:3 in state  RUN
+2015-04-26 16:09:57,549 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012095: Abort of action id 0:ffff817b0729:e011:553d61f4:3 invoked while multiple threads active within it.
+2015-04-26 16:09:57,550 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012108: CheckedAction::check - atomic action 0:ffff817b0729:e011:553d61f4:3 aborting with 1 threads active!
+2015-04-26 16:09:57,552 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012121: TransactionReaper::doCancellations worker Thread[Transaction Reaper Worker 0,5,main] successfully canceled TX 0:ffff817b0729:e011:553d61f4:3
+2015-04-26 16:10:20,606 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 57381
+2015-04-26 16:10:20,609 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 57381
+2015-04-26 16:10:20,685 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 57381 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 16:11:22,933 [Transaction Reaper] WARN  com.arjuna.ats.arjuna - ARJUNA012117: TransactionReaper::check timeout for TX 0:ffff817b0729:e024:553d624c:3 in state  RUN
+2015-04-26 16:11:22,935 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012095: Abort of action id 0:ffff817b0729:e024:553d624c:3 invoked while multiple threads active within it.
+2015-04-26 16:11:22,935 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012108: CheckedAction::check - atomic action 0:ffff817b0729:e024:553d624c:3 aborting with 1 threads active!
+2015-04-26 16:11:22,938 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012121: TransactionReaper::doCancellations worker Thread[Transaction Reaper Worker 0,5,main] successfully canceled TX 0:ffff817b0729:e024:553d624c:3
+2015-04-26 16:53:36,683 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 58673
+2015-04-26 16:53:36,762 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 58673
+2015-04-26 16:53:36,844 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 58673 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 16:54:17,691 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 58679
+2015-04-26 16:54:17,694 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 58679
+2015-04-26 16:54:17,781 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 58679 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 16:55:10,107 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 58694
+2015-04-26 16:55:10,110 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 58694
+2015-04-26 16:55:10,176 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 58694 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 16:56:11,259 [Transaction Reaper] WARN  com.arjuna.ats.arjuna - ARJUNA012117: TransactionReaper::check timeout for TX 0:ffff817b0729:e545:553d6ccd:3 in state  RUN
+2015-04-26 16:56:11,260 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012095: Abort of action id 0:ffff817b0729:e545:553d6ccd:3 invoked while multiple threads active within it.
+2015-04-26 16:56:11,261 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012108: CheckedAction::check - atomic action 0:ffff817b0729:e545:553d6ccd:3 aborting with 1 threads active!
+2015-04-26 16:56:11,263 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012121: TransactionReaper::doCancellations worker Thread[Transaction Reaper Worker 0,5,main] successfully canceled TX 0:ffff817b0729:e545:553d6ccd:3
+2015-04-26 17:50:46,937 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 63553
+2015-04-26 17:50:46,988 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 63553
+2015-04-26 17:50:47,356 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 63553 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 17:50:51,420 [main] WARN  com.arjuna.ats.arjuna - ARJUNA012071: End called on already committed atomic action 0:ffff817b0729:f840:553d79d6:3
+2015-04-26 17:52:13,925 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 63591
+2015-04-26 17:52:13,928 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 63591
+2015-04-26 17:52:14,007 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 63591 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 17:53:57,730 [Transaction Reaper] WARN  com.arjuna.ats.arjuna - ARJUNA012117: TransactionReaper::check timeout for TX 0:ffff817b0729:f866:553d7a2d:3 in state  RUN
+2015-04-26 17:53:57,731 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012095: Abort of action id 0:ffff817b0729:f866:553d7a2d:3 invoked while multiple threads active within it.
+2015-04-26 17:53:57,731 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012108: CheckedAction::check - atomic action 0:ffff817b0729:f866:553d7a2d:3 aborting with 1 threads active!
+2015-04-26 17:53:57,733 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012121: TransactionReaper::doCancellations worker Thread[Transaction Reaper Worker 0,5,main] successfully canceled TX 0:ffff817b0729:f866:553d7a2d:3
+2015-04-26 17:55:14,741 [main] WARN  com.arjuna.ats.arjuna - ARJUNA012077: Abort called on already aborted atomic action 0:ffff817b0729:f866:553d7a2d:3
+2015-04-26 17:56:21,314 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 63671
+2015-04-26 17:56:21,318 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 63671
+2015-04-26 17:56:21,403 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 63671 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 17:57:31,100 [Transaction Reaper] WARN  com.arjuna.ats.arjuna - ARJUNA012117: TransactionReaper::check timeout for TX 0:ffff817b0729:f8b6:553d7b24:3 in state  RUN
+2015-04-26 17:57:31,101 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012095: Abort of action id 0:ffff817b0729:f8b6:553d7b24:3 invoked while multiple threads active within it.
+2015-04-26 17:57:31,101 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012108: CheckedAction::check - atomic action 0:ffff817b0729:f8b6:553d7b24:3 aborting with 1 threads active!
+2015-04-26 17:57:31,104 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012121: TransactionReaper::doCancellations worker Thread[Transaction Reaper Worker 0,5,main] successfully canceled TX 0:ffff817b0729:f8b6:553d7b24:3
+2015-04-26 17:58:27,765 [main] WARN  com.arjuna.ats.arjuna - ARJUNA012077: Abort called on already aborted atomic action 0:ffff817b0729:f8b6:553d7b24:3
+2015-04-26 17:58:51,708 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 63722
+2015-04-26 17:58:51,712 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 63722
+2015-04-26 17:58:51,775 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 63722 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 17:59:57,718 [Transaction Reaper] WARN  com.arjuna.ats.arjuna - ARJUNA012117: TransactionReaper::check timeout for TX 0:ffff817b0729:f8e9:553d7bba:3 in state  RUN
+2015-04-26 17:59:57,719 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012095: Abort of action id 0:ffff817b0729:f8e9:553d7bba:3 invoked while multiple threads active within it.
+2015-04-26 17:59:57,719 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012108: CheckedAction::check - atomic action 0:ffff817b0729:f8e9:553d7bba:3 aborting with 1 threads active!
+2015-04-26 17:59:57,722 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012121: TransactionReaper::doCancellations worker Thread[Transaction Reaper Worker 0,5,main] successfully canceled TX 0:ffff817b0729:f8e9:553d7bba:3
+2015-04-26 18:01:23,194 [main] WARN  com.arjuna.ats.arjuna - ARJUNA012077: Abort called on already aborted atomic action 0:ffff817b0729:f8e9:553d7bba:3
+2015-04-26 18:09:20,296 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 64150
+2015-04-26 18:09:20,299 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 64150
+2015-04-26 18:09:20,349 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 64150 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 18:10:56,579 [Transaction Reaper] WARN  com.arjuna.ats.arjuna - ARJUNA012117: TransactionReaper::check timeout for TX 0:ffff817b0729:fa95:553d7e2f:3 in state  RUN
+2015-04-26 18:10:56,580 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012095: Abort of action id 0:ffff817b0729:fa95:553d7e2f:3 invoked while multiple threads active within it.
+2015-04-26 18:10:56,581 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012108: CheckedAction::check - atomic action 0:ffff817b0729:fa95:553d7e2f:3 aborting with 1 threads active!
+2015-04-26 18:10:56,583 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012121: TransactionReaper::doCancellations worker Thread[Transaction Reaper Worker 0,5,main] successfully canceled TX 0:ffff817b0729:fa95:553d7e2f:3
+2015-04-26 18:13:51,413 [main] WARN  com.arjuna.ats.arjuna - ARJUNA012077: Abort called on already aborted atomic action 0:ffff817b0729:fa95:553d7e2f:3
+2015-04-26 18:40:41,543 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 64607
+2015-04-26 18:40:41,547 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 64607
+2015-04-26 18:40:41,617 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 64607 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 18:42:02,376 [Transaction Reaper] WARN  com.arjuna.ats.arjuna - ARJUNA012117: TransactionReaper::check timeout for TX 0:ffff817b0729:fc5e:553d8589:3 in state  RUN
+2015-04-26 18:42:02,377 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012095: Abort of action id 0:ffff817b0729:fc5e:553d8589:3 invoked while multiple threads active within it.
+2015-04-26 18:42:02,377 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012108: CheckedAction::check - atomic action 0:ffff817b0729:fc5e:553d8589:3 aborting with 1 threads active!
+2015-04-26 18:42:02,379 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012121: TransactionReaper::doCancellations worker Thread[Transaction Reaper Worker 0,5,main] successfully canceled TX 0:ffff817b0729:fc5e:553d8589:3
+2015-04-26 18:43:46,304 [main] WARN  com.arjuna.ats.arjuna - ARJUNA012077: Abort called on already aborted atomic action 0:ffff817b0729:fc5e:553d8589:3
+2015-04-26 18:48:05,549 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 64707
+2015-04-26 18:48:05,553 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 64707
+2015-04-26 18:48:05,630 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 64707 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 18:53:52,435 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 64826
+2015-04-26 18:53:52,438 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 64826
+2015-04-26 18:53:52,542 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 64826 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 18:54:19,604 [main] WARN  com.arjuna.ats.arjuna - ARJUNA012077: Abort called on already aborted atomic action 0:ffff817b0729:fd39:553d889f:3
+2015-04-26 18:54:56,507 [main] WARN  com.arjuna.ats.arjuna - ARJUNA012077: Abort called on already aborted atomic action 0:ffff817b0729:fd39:553d889f:7
+2015-04-26 18:58:33,639 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 64860
+2015-04-26 18:58:33,642 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 64860
+2015-04-26 18:58:33,703 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 64860 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 19:02:16,886 [Transaction Reaper] WARN  com.arjuna.ats.arjuna - ARJUNA012117: TransactionReaper::check timeout for TX 0:ffff817b0729:fd5b:553d89b8:3 in state  RUN
+2015-04-26 19:02:16,887 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012095: Abort of action id 0:ffff817b0729:fd5b:553d89b8:3 invoked while multiple threads active within it.
+2015-04-26 19:02:16,887 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012108: CheckedAction::check - atomic action 0:ffff817b0729:fd5b:553d89b8:3 aborting with 1 threads active!
+2015-04-26 19:02:16,890 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012121: TransactionReaper::doCancellations worker Thread[Transaction Reaper Worker 0,5,main] successfully canceled TX 0:ffff817b0729:fd5b:553d89b8:3
+2015-04-26 19:02:48,752 [main] WARN  com.arjuna.ats.arjuna - ARJUNA012077: Abort called on already aborted atomic action 0:ffff817b0729:fd5b:553d89b8:3
+2015-04-26 19:09:36,891 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 65029
+2015-04-26 19:09:36,895 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 65029
+2015-04-26 19:09:36,968 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 65029 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 19:12:21,406 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 65112
+2015-04-26 19:12:21,409 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 65112
+2015-04-26 19:12:21,476 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 65112 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 19:13:31,865 [Transaction Reaper] WARN  com.arjuna.ats.arjuna - ARJUNA012117: TransactionReaper::check timeout for TX 0:ffff817b0729:fe57:553d8cf5:3 in state  RUN
+2015-04-26 19:13:31,866 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012095: Abort of action id 0:ffff817b0729:fe57:553d8cf5:3 invoked while multiple threads active within it.
+2015-04-26 19:13:31,866 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012108: CheckedAction::check - atomic action 0:ffff817b0729:fe57:553d8cf5:3 aborting with 1 threads active!
+2015-04-26 19:13:31,868 [Transaction Reaper Worker 0] WARN  com.arjuna.ats.arjuna - ARJUNA012121: TransactionReaper::doCancellations worker Thread[Transaction Reaper Worker 0,5,main] successfully canceled TX 0:ffff817b0729:fe57:553d8cf5:3
+2015-04-26 19:15:04,714 [main] WARN  com.arjuna.ats.arjuna - ARJUNA012077: Abort called on already aborted atomic action 0:ffff817b0729:fe57:553d8cf5:3
+2015-04-26 19:16:15,555 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 65170
+2015-04-26 19:16:15,558 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 65170
+2015-04-26 19:16:15,634 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 65170 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2015-04-26 19:16:55,626 [main] WARN  com.arjuna.ats.arjuna - ARJUNA012077: Abort called on already aborted atomic action 0:ffff817b0729:fe91:553d8dde:3
+2015-04-26 19:55:03,169 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012163: Starting service com.arjuna.ats.arjuna.recovery.ActionStatusService on port 50212
+2015-04-26 19:55:03,196 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012337: TransactionStatusManagerItem host: 127.0.0.1 port: 50212
+2015-04-26 19:55:03,350 [main] INFO  com.arjuna.ats.arjuna - ARJUNA012170: TransactionStatusManager started on port 50212 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
